@@ -13,4 +13,4 @@ _The code uses a `switch` statement to determine what type of event listener to 
 
 ## Dependencies
 
-• jQuery
+* jQuery
